@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaruls
 - 👀 I’m interested in programming
-- 🌱 I’m currently diploma holder but no experience it It
+- 🌱 I’m currently diploma holder but no experience it Programning
 - 💞️ I’m looking to learn programming again
 - 📫 How to reach me ...
 
